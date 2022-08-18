@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jichuban/StudentManager/StudentManager.iml" filepath="$PROJECT_DIR$/jichuban/StudentManager/StudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/bizuoti/bizuoti.iml" filepath="$PROJECT_DIR$/jichuban/bizuoti/bizuoti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/day01_code/day01_code.iml" filepath="$PROJECT_DIR$/jichuban/day01_code/day01_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/day01_test/day01_test.iml" filepath="$PROJECT_DIR$/jichuban/day01_test/day01_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/day02_code/day02_code.iml" filepath="$PROJECT_DIR$/jichuban/day02_code/day02_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/day02_test/day02_test.iml" filepath="$PROJECT_DIR$/jichuban/day02_test/day02_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/day03_code/day03_code.iml" filepath="$PROJECT_DIR$/jichuban/day03_code/day03_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/day03_test/day03_test.iml" filepath="$PROJECT_DIR$/jichuban/day03_test/day03_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/day04_code/day04_code.iml" filepath="$PROJECT_DIR$/jichuban/day04_code/day04_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/day04_test/day04_test.iml" filepath="$PROJECT_DIR$/jichuban/day04_test/day04_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/day05-code/day05-code.iml" filepath="$PROJECT_DIR$/jichuban/day05-code/day05-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/day06_test/day06_test.iml" filepath="$PROJECT_DIR$/jichuban/day06_test/day06_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/day08-code/day08-code.iml" filepath="$PROJECT_DIR$/jichuban/day08-code/day08-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/day09-code/day09-code.iml" filepath="$PROJECT_DIR$/jichuban/day09-code/day09-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/lianxi_Demo/lianxi_Demo.iml" filepath="$PROJECT_DIR$/jichuban/lianxi_Demo/lianxi_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/myStudentManager/myStudentManager.iml" filepath="$PROJECT_DIR$/jichuban/myStudentManager/myStudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/oop-interface/oop-interface.iml" filepath="$PROJECT_DIR$/jichuban/oop-interface/oop-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichuban/zuoye/zuoye.iml" filepath="$PROJECT_DIR$/jichuban/zuoye/zuoye.iml" />
+    </modules>
+  </component>
+</project>

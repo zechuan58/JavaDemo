@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd228433-48dd-47ad-8f89-95d247e47c6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/jichuban/lianxi_Demo/src/com/zechuan/lianxidemo/ArrayDemo01.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jichuban/StudentManager/src/com/itheima/test/StudentManager.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jichuban/lianxi_Demo/src/com/zechuan/lianxidemo/ArrDemo07.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="3" />
+  </component>
+  <component name="ProjectId" id="2CawoVvzDR8LKWhN6RMEuaVyY4n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jichuban/myStudentManager/myStudentManager.iml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaDemo\jichuban\pintugame\src" />
+      <recent name="D:\JavaDemo\jichuban\pintugame\src\com\itheima\ui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaDemo\jichuban\pintugame\src\com\itheima\test" />
+      <recent name="D:\JavaDemo\jichuban\pintugame" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.helloworld.Demo" />
+      <module name="day01_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zechuan.kaoshi.Demo21" />
+      <module name="lianxi_Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zechuan.kaoshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zechuan.kaoshi.Demo22" />
+      <module name="lianxi_Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zechuan.kaoshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zechuan.kaoshi.Demo23" />
+      <module name="lianxi_Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zechuan.kaoshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentManager (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.manager.StudentManager" />
+      <module name="myStudentManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Demo23" />
+        <item itemvalue="Application.Demo22" />
+        <item itemvalue="Application.Demo21" />
+        <item itemvalue="Application.StudentManager (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\11959\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd228433-48dd-47ad-8f89-95d247e47c6b" name="Default Changelist" comment="" />
+      <created>1659054181656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659054181656</updated>
+      <workItem from="1659054186535" duration="246000" />
+      <workItem from="1659054453840" duration="699000" />
+      <workItem from="1659055234570" duration="21943000" />
+      <workItem from="1659102280991" duration="449000" />
+      <workItem from="1659102752925" duration="410000" />
+      <workItem from="1659194323020" duration="601000" />
+      <workItem from="1659194948591" duration="276000" />
+      <workItem from="1659226284148" duration="4510000" />
+      <workItem from="1659250221147" duration="17929000" />
+      <workItem from="1659312978381" duration="12834000" />
+      <workItem from="1659354916088" duration="1470000" />
+      <workItem from="1659356939790" duration="2330000" />
+      <workItem from="1659405491392" duration="11519000" />
+      <workItem from="1659431536465" duration="431000" />
+      <workItem from="1659432697642" duration="198000" />
+      <workItem from="1659432916860" duration="2681000" />
+      <workItem from="1659486442016" duration="1194000" />
+      <workItem from="1659487664606" duration="22817000" />
+      <workItem from="1659531445675" duration="601000" />
+      <workItem from="1659532069243" duration="978000" />
+      <workItem from="1659533087120" duration="2047000" />
+      <workItem from="1659536660335" duration="1198000" />
+      <workItem from="1659539051689" duration="89000" />
+      <workItem from="1659573445837" duration="406000" />
+      <workItem from="1659573876866" duration="7361000" />
+      <workItem from="1659582234214" duration="8213000" />
+      <workItem from="1659597200603" duration="118000" />
+      <workItem from="1659597342382" duration="288000" />
+      <workItem from="1659597683942" duration="866000" />
+      <workItem from="1659598593116" duration="2796000" />
+      <workItem from="1659614856908" duration="4105000" />
+      <workItem from="1659831668793" duration="21829000" />
+      <workItem from="1659923587080" duration="4040000" />
+      <workItem from="1660005334311" duration="20801000" />
+      <workItem from="1660092696206" duration="4971000" />
+      <workItem from="1660098661232" duration="44000" />
+      <workItem from="1660098751886" duration="8000" />
+      <workItem from="1660099347726" duration="137000" />
+      <workItem from="1660099652144" duration="74000" />
+      <workItem from="1660130090124" duration="62000" />
+      <workItem from="1660350093101" duration="1009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
